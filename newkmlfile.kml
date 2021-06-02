@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml>
+    <Document>
+        <Placemark>
+            <name>Криничка з водою при господарській споруді</name>
+            <description>http://www.karpaty.com.ua/gps/data/1539.html</description>
+            <Point>
+                <coordinates>47.766757, 25.031869</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>КП. Cеменчук. Електрифікована колиба</name>
+            <description>http://www.karpaty.com.ua/gps/data/1540.html</description>
+            <Point>
+                <coordinates>47.75847, 25.031347</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Звіринець у с. Cелятин. Ведмеді, олень, вовк, лисиця, заєць...</name>
+            <description>http://www.karpaty.com.ua/gps/data/1541.html</description>
+            <Point>
+                <coordinates>47.863905, 25.19399</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Cтрумок, п. Оленів</name>
+            <description>http://www.karpaty.com.ua/gps/data/1543.html</description>
+            <Point>
+                <coordinates>47.746465, 25.081777</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark>
+            <name>Місток через п. Оленів</name>
+            <description>http://www.karpaty.com.ua/gps/data/1544.html</description>
+            <Point>
+                <coordinates>47.743213, 25.067227</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
